@@ -1,5 +1,8 @@
 import java.util.*;
 
+/**
+ * 有重复数字组合(所有长度组合)
+ */
 public class CombineNumber {
 
     public static void main(String[] args){

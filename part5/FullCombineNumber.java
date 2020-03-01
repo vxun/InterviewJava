@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * 数组的无重复组合
+ * 数组的无重复组合(最大长度数组组合)
  */
 public class FullCombineNumber{
 
@@ -9,9 +9,8 @@ public class FullCombineNumber{
     public static void main(String[] args) {
         List<String> s = new ArrayList<>();
         s.add("3");
-        s.add("4");
+        s.add("3");
         s.add("7");
-        s.add("9");
         combine(s, "");
     }
 

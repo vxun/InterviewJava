@@ -1,8 +1,10 @@
 import java.util.*;
 
+/**
+ * 快慢指针,找出重复字符串
+ */
 public class DuplicateNumber {
 
-    
     public static void main(String[] args) {
         List<Integer> s = new ArrayList<>();
         s.add(1);
