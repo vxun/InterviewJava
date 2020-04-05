@@ -1,6 +1,3 @@
-import java.lang.*;
-import java.util.*;
-
 public class ParameterPassing {
     /**
      * 基本类型,传递值得副本,方法内改变参数值,不会影响到方法外

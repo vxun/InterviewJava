@@ -1,4 +1,4 @@
-import java.math.*;
+import java.lang.Math;
 
 public class PrimeNumber{
 
@@ -7,7 +7,6 @@ public class PrimeNumber{
     }
 
     public static void sqrt() {
-        int a[] = new int[101];
         int i,j,k;
         for (i = 1; i < 101; i++) {
             k = (int)Math.sqrt(i);
