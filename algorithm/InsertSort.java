@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-import sun.security.util.Length;
-
 /**
  * 插入排序
  * 1. 假设前面的M个元素是已经排好序的 
